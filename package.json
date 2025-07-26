@@ -1,0 +1,16 @@
+{
+    "name": "quiz-poll-app",
+    "version": "1.0.0",
+    "description": "A real-time quiz poll application",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "ws": "^8.13.0"
+    },
+    "engines": {
+        "node": ">=16.0.0"
+    }
+}
